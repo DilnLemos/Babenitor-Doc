@@ -10,4 +10,4 @@ This is the official documentation for Babenitor, a very important university pr
 | Diego Fernando Lenis Delgado    | xxxxxxx    | xxxxxx   |
 | Jaime Andrés Noreña Córdoba    | xxxxxxx    | xxxxxx   |
 | Juan José Restrepo Ávalo    | xxxxxxx    | xxxxxx   |
-| Daniel Hernández Ramírez    | xxxxxxx    | xxxxxx   |
+| Daniel Hernández Ramírez    | 2359570    | daniel.hernandez@correounivalle.edu.co   |
