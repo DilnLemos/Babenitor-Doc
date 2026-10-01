@@ -35,8 +35,7 @@ Desarrollar un prototipo de monitoreo para bebés basado en dispositivos ESP32 q
 
 ## Alcance
 
-**TODO**
-
+El prototipo podra decir si el infante se ubica en el lugar predispuesto por el usuario, podra identificar el llanto basado en la frecuencia de la voz, podra medir la temperatura de infante y alertar cualquier temperatura anomala y en general el dispositivo basado en todas la medidas anteriores podra decidir si enviar alertas para los padres del infante
 ### Lo que NO incluye
 
 El prototipo se limita a monitorear y alertar, por lo que no realiza ningún tipo de diagnóstico médico ni interpreta las mediciones como indicadores de enfermedad; tampoco ejecuta acciones físicas sobre el bebé ni sobre su entorno (mecer la cuna, regular la temperatura de la habitación, etc.). Babenitor no reemplaza la supervisión de un adulto responsable, sino que funciona como un apoyo para el cuidador, quien sigue siendo el encargado de verificar y atender cualquier situación. El monitoreo se restringe a una única habitación previamente configurada para el prototipo, de modo que no se contempla el seguimiento del bebé fuera de ese espacio ni en exteriores. Finalmente, al tratarse de un prototipo académico, el sistema no cuenta ni busca obtener certificación como dispositivo médico o comercial.
