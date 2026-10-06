@@ -206,11 +206,11 @@ Con la firma de esta acta se da inicio formal al proyecto Babenitor y se aprueba
 
 | Nombre                          | Cargo / Rol                  | Fecha de aprobación | Firma |
 | ------------------------------- | ---------------------------- | ------------------- | ----- |
-| xxxxxx                          | Profesor del curso           | xx/xx/2026          |       |
+| Alvaro Salazar Victoria                          | Profesor del curso           | xx/2026          |       |
 | Dilan Mauricio Lemos López      | Integrante del equipo        | xx/xx/2026          |       |
 | Diego Fernando Lenis Delgado    | Integrante del equipo        | xx/xx/2026          |       |
 | Jaime Andrés Noreña Córdoba     | Integrante del equipo        | xx/xx/2026          |       |
 | Juan José Restrepo Ávalo        | Integrante del equipo        | xx/xx/2026          |       |
 | Daniel Hernández Ramírez        | Integrante del equipo        | xx/xx/2026          |       |
 
-git commit -m "Doc: Acta de Constitución agregada." -m "Se creó el acta de consitución para el proyecto y se definieron los primeros puntos preliminares (Descripción, Problema, Justificación, Objetivo, Alcance)"
+
