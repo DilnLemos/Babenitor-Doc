@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Arial, sans-serif" font-size="12">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400.0" y="22" text-anchor="middle" font-size="15" font-weight="bold">Babenitor – Curva S de valor ganado (corte 10/11/2026)</text>
+<line x1="70" y1="375.0" x2="770" y2="375.0" stroke="#e5e5e5"/>
+<text x="62" y="379.0" text-anchor="end">0</text>
+<line x1="70" y1="333.125" x2="770" y2="333.125" stroke="#e5e5e5"/>
+<text x="62" y="337.125" text-anchor="end">50</text>
+<line x1="70" y1="291.25" x2="770" y2="291.25" stroke="#e5e5e5"/>
+<text x="62" y="295.25" text-anchor="end">100</text>
+<line x1="70" y1="249.375" x2="770" y2="249.375" stroke="#e5e5e5"/>
+<text x="62" y="253.375" text-anchor="end">150</text>
+<line x1="70" y1="207.5" x2="770" y2="207.5" stroke="#e5e5e5"/>
+<text x="62" y="211.5" text-anchor="end">200</text>
+<line x1="70" y1="165.625" x2="770" y2="165.625" stroke="#e5e5e5"/>
+<text x="62" y="169.625" text-anchor="end">250</text>
+<line x1="70" y1="123.75" x2="770" y2="123.75" stroke="#e5e5e5"/>
+<text x="62" y="127.75" text-anchor="end">300</text>
+<line x1="70" y1="81.875" x2="770" y2="81.875" stroke="#e5e5e5"/>
+<text x="62" y="85.875" text-anchor="end">350</text>
+<line x1="70" y1="40.0" x2="770" y2="40.0" stroke="#e5e5e5"/>
+<text x="62" y="44.0" text-anchor="end">400</text>
+<text x="70.0" y="393" text-anchor="middle">19/10</text>
+<text x="172.94117647058823" y="393" text-anchor="middle">26/10</text>
+<text x="358.2352941176471" y="393" text-anchor="middle">09/11</text>
+<text x="543.5294117647059" y="393" text-anchor="middle">23/11</text>
+<text x="646.4705882352941" y="393" text-anchor="middle">30/11</text>
+<text x="749.4117647058823" y="393" text-anchor="middle">07/12</text>
+<text x="18" y="207.5" transform="rotate(-90 18 207.5)" text-anchor="middle">horas acumuladas</text>
+<line x1="70" y1="55.07500000000002" x2="770" y2="55.07500000000002" stroke="#999" stroke-dasharray="2,3"/>
+<text x="76" y="50.07500000000002" fill="#666">BAC de la red = 382 h</text>
+<line x1="399.4117647058824" y1="40" x2="399.4117647058824" y2="375" stroke="#000" stroke-dasharray="4,3"/>
+<text x="395.4117647058824" y="52" text-anchor="end" fill="#000">hoy 10/11</text>
+<line x1="646.4705882352941" y1="40" x2="646.4705882352941" y2="375" stroke="#1f5fbf" stroke-dasharray="4,3"/>
+<text x="642.4705882352941" y="52" text-anchor="end" fill="#1f5fbf">fin línea base 27/11</text>
+<line x1="770.0" y1="40" x2="770.0" y2="375" stroke="#b00" stroke-dasharray="4,3"/>
+<text x="766.0" y="52" text-anchor="end" fill="#b00">acta 07/12</text>
+<polyline points="70.0,375.0 90.58823529411765,369.975 111.1764705882353,369.975 131.76470588235293,356.575 152.3529411764706,333.125 172.94117647058823,323.9125 193.52941176470588,320.5625 214.11764705882354,315.5375 234.7058823529412,305.4875 255.2941176470588,288.73749999999995 275.88235294117646,277.01250000000005 296.47058823529414,277.01250000000005 317.05882352941177,266.9625 337.6470588235294,238.4875 358.2352941176471,223.4125 378.8235294117647,223.4125 399.4117647058824,193.26250000000002 420.0,193.26250000000002 440.5882352941176,161.4375 461.1764705882353,149.7125 481.7647058823529,134.6375 502.3529411764706,119.56250000000001 522.9411764705883,106.16250000000001 543.5294117647059,93.60000000000001 564.1176470588235,88.575 584.7058823529412,81.875 605.2941176470588,71.82499999999999 625.8823529411765,65.12499999999999 646.4705882352941,55.07500000000002" fill="none" stroke="#1f5fbf" stroke-width="2.5"/>
+<polyline points="70.0,375.0 399.4117647058824,302.975" fill="none" stroke="#2a9d3c" stroke-width="2.5"/>
+<polyline points="70.0,375.0 399.4117647058824,251.88750000000002" fill="none" stroke="#d9822b" stroke-width="2.5"/>
+<polyline points="399.4117647058824,302.975 770.0,55.07500000000002" fill="none" stroke="#2a9d3c" stroke-width="1.5" stroke-dasharray="6,4"/>
+<circle cx="399.4117647058824" cy="193.26250000000002" r="4" fill="#1f5fbf"/>
+<text x="407.4117647058824" y="197.26250000000002" fill="#1f5fbf" font-weight="bold">PV 217 h</text>
+<circle cx="399.4117647058824" cy="251.88750000000002" r="4" fill="#d9822b"/>
+<text x="407.4117647058824" y="255.88750000000002" fill="#d9822b" font-weight="bold">AC 147 h</text>
+<circle cx="399.4117647058824" cy="302.975" r="4" fill="#2a9d3c"/>
+<text x="407.4117647058824" y="306.975" fill="#2a9d3c" font-weight="bold">EV 86 h</text>
+<line x1="70" y1="422" x2="92" y2="422" stroke="#1f5fbf" stroke-width="2.5" stroke-dasharray=""/>
+<text x="97" y="426" font-size="11">PV planificado (línea base v3)</text>
+<line x1="410" y1="422" x2="432" y2="422" stroke="#2a9d3c" stroke-width="2.5" stroke-dasharray=""/>
+<text x="437" y="426" font-size="11">EV ganado (todo o nada)</text>
+<line x1="70" y1="442" x2="92" y2="442" stroke="#d9822b" stroke-width="2.5" stroke-dasharray=""/>
+<text x="97" y="446" font-size="11">AC costo real</text>
+<line x1="410" y1="442" x2="432" y2="442" stroke="#2a9d3c" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="437" y="446" font-size="11">EV necesario para cerrar el 07/12</text>
+</svg>
