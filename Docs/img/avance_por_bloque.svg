@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Arial, sans-serif" font-size="12">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400.0" y="22" text-anchor="middle" font-size="15" font-weight="bold">Babenitor – Valor ganado por bloque: corte 10/11 frente a corte 17/11</text>
+<line x1="70" y1="320.0" x2="780" y2="320.0" stroke="#e5e5e5"/>
+<text x="62" y="324.0" text-anchor="end">0</text>
+<line x1="70" y1="266.0" x2="780" y2="266.0" stroke="#e5e5e5"/>
+<text x="62" y="270.0" text-anchor="end">20</text>
+<line x1="70" y1="212.0" x2="780" y2="212.0" stroke="#e5e5e5"/>
+<text x="62" y="216.0" text-anchor="end">40</text>
+<line x1="70" y1="158.0" x2="780" y2="158.0" stroke="#e5e5e5"/>
+<text x="62" y="162.0" text-anchor="end">60</text>
+<line x1="70" y1="104.0" x2="780" y2="104.0" stroke="#e5e5e5"/>
+<text x="62" y="108.0" text-anchor="end">80</text>
+<line x1="70" y1="50.0" x2="780" y2="50.0" stroke="#e5e5e5"/>
+<text x="62" y="54.0" text-anchor="end">100</text>
+<text x="18" y="185.0" transform="rotate(-90 18 185.0)" text-anchor="middle">horas</text>
+<rect x="89.7" y="276.8" width="19" height="43.2" fill="#d5dbe3"/>
+<text x="99.2" y="272.8" text-anchor="middle" font-size="10">16</text>
+<rect x="111.7" y="276.8" width="19" height="43.2" fill="#9aa5b1"/>
+<text x="121.2" y="272.8" text-anchor="middle" font-size="10">16</text>
+<rect x="133.7" y="276.8" width="19" height="43.2" fill="#2a9d3c"/>
+<text x="143.2" y="272.8" text-anchor="middle" font-size="10">16</text>
+<text x="120.7" y="338" text-anchor="middle" font-weight="bold">1.0 Gestión</text>
+<text x="120.7" y="354" text-anchor="middle" fill="#555">100 % al 17/11</text>
+<rect x="191.1" y="244.4" width="19" height="75.6" fill="#d5dbe3"/>
+<text x="200.6" y="240.4" text-anchor="middle" font-size="10">28</text>
+<rect x="213.1" y="282.2" width="19" height="37.8" fill="#9aa5b1"/>
+<text x="222.6" y="278.2" text-anchor="middle" font-size="10">14</text>
+<rect x="235.1" y="271.4" width="19" height="48.6" fill="#2a9d3c"/>
+<text x="244.6" y="267.4" text-anchor="middle" font-size="10">18</text>
+<text x="222.1" y="338" text-anchor="middle" font-weight="bold">2.0 Hardware</text>
+<text x="222.1" y="354" text-anchor="middle" fill="#555">64 % al 17/11</text>
+<rect x="292.6" y="55.4" width="19" height="264.6" fill="#d5dbe3"/>
+<text x="302.1" y="51.4" text-anchor="middle" font-size="10">98</text>
+<rect x="314.6" y="244.4" width="19" height="75.6" fill="#9aa5b1"/>
+<text x="324.1" y="240.4" text-anchor="middle" font-size="10">28</text>
+<rect x="336.6" y="98.6" width="19" height="221.4" fill="#2a9d3c"/>
+<text x="346.1" y="94.6" text-anchor="middle" font-size="10">82</text>
+<text x="323.6" y="338" text-anchor="middle" font-weight="bold">3.0 ESP32 #1</text>
+<text x="323.6" y="354" text-anchor="middle" fill="#555">84 % al 17/11</text>
+<rect x="394.0" y="249.8" width="19" height="70.2" fill="#d5dbe3"/>
+<text x="403.5" y="245.8" text-anchor="middle" font-size="10">26</text>
+<rect x="416.0" y="271.4" width="19" height="48.6" fill="#9aa5b1"/>
+<text x="425.5" y="267.4" text-anchor="middle" font-size="10">18</text>
+<rect x="438.0" y="249.8" width="19" height="70.2" fill="#2a9d3c"/>
+<text x="447.5" y="245.8" text-anchor="middle" font-size="10">26</text>
+<text x="425.0" y="338" text-anchor="middle" font-weight="bold">4.0 ESP32 #2</text>
+<text x="425.0" y="354" text-anchor="middle" fill="#555">100 % al 17/11</text>
+<rect x="495.4" y="179.6" width="19" height="140.4" fill="#d5dbe3"/>
+<text x="504.9" y="175.6" text-anchor="middle" font-size="10">52</text>
+<rect x="517.4" y="320.0" width="19" height="0.0" fill="#9aa5b1"/>
+<text x="526.9" y="316.0" text-anchor="middle" font-size="10">0</text>
+<rect x="539.4" y="320.0" width="19" height="0.0" fill="#2a9d3c"/>
+<text x="548.9" y="316.0" text-anchor="middle" font-size="10">0</text>
+<text x="526.4" y="338" text-anchor="middle" font-weight="bold">5.0 Comunicación</text>
+<text x="526.4" y="354" text-anchor="middle" fill="#555">0 % al 17/11</text>
+<rect x="596.9" y="109.4" width="19" height="210.6" fill="#d5dbe3"/>
+<text x="606.4" y="105.4" text-anchor="middle" font-size="10">78</text>
+<rect x="618.9" y="293.0" width="19" height="27.0" fill="#9aa5b1"/>
+<text x="628.4" y="289.0" text-anchor="middle" font-size="10">10</text>
+<rect x="640.9" y="179.6" width="19" height="140.4" fill="#2a9d3c"/>
+<text x="650.4" y="175.6" text-anchor="middle" font-size="10">52</text>
+<text x="627.9" y="338" text-anchor="middle" font-weight="bold">6.0 App Android</text>
+<text x="627.9" y="354" text-anchor="middle" fill="#555">67 % al 17/11</text>
+<rect x="698.3" y="93.2" width="19" height="226.8" fill="#d5dbe3"/>
+<text x="707.8" y="89.2" text-anchor="middle" font-size="10">84</text>
+<rect x="720.3" y="320.0" width="19" height="0.0" fill="#9aa5b1"/>
+<text x="729.8" y="316.0" text-anchor="middle" font-size="10">0</text>
+<rect x="742.3" y="301.1" width="19" height="18.9" fill="#2a9d3c"/>
+<text x="751.8" y="297.1" text-anchor="middle" font-size="10">7</text>
+<text x="729.3" y="338" text-anchor="middle" font-weight="bold">7.0 Integración</text>
+<text x="729.3" y="354" text-anchor="middle" fill="#555">8 % al 17/11</text>
+<rect x="120" y="372" width="16" height="12" fill="#d5dbe3"/>
+<text x="142" y="382" font-size="11">Horas del bloque en la red</text>
+<rect x="330" y="372" width="16" height="12" fill="#9aa5b1"/>
+<text x="352" y="382" font-size="11">EV al 10/11 (86 h)</text>
+<rect x="520" y="372" width="16" height="12" fill="#2a9d3c"/>
+<text x="542" y="382" font-size="11">EV al 17/11 (201 h)</text>
+</svg>
